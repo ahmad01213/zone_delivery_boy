@@ -1,0 +1,467 @@
+{
+  "project_info": {
+    "project_number": "584643132210",
+    "firebase_url": "https://friendlychat-43764.firebaseio.com",
+    "project_id": "friendlychat-43764",
+    "storage_bucket": "friendlychat-43764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584643132210:android:b2f9e5b3ae9089e6",
+        "android_client_info": {
+          "package_name": "aebrahima830.com.mobilepanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKTuLjQAFYv-bq4Mc-l2vSyxk6LWArUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584643132210-7771rc4jautvjn62kg1ckubn8pikhrb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aebrahima830.ritakwaterapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584643132210:android:4a444e6d4fceb394",
+        "android_client_info": {
+          "package_name": "com.Ahwas.ahmed.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584643132210-382drkq0u5t0suvss9n9q7mq9r2kh17l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Ahwas.ahmed.myapplication",
+            "certificate_hash": "ca35e9c7b6c220241fc199cf01eced15641c4863"
+          }
+        },
+        {
+          "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKTuLjQAFYv-bq4Mc-l2vSyxk6LWArUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584643132210-7771rc4jautvjn62kg1ckubn8pikhrb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aebrahima830.ritakwaterapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584643132210:android:f080e2516e1084d545352b",
+        "android_client_info": {
+          "package_name": "com.aebrahima830.RitalAdmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584643132210-59rek1e91a6co7r4fm86pkb7varh0mio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aebrahima830.RitalAdmin",
+            "certificate_hash": "71270b5d5a7c953e78adb1c1f53c3dde017a3482"
+          }
+        },
+        {
+          "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKTuLjQAFYv-bq4Mc-l2vSyxk6LWArUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584643132210-7771rc4jautvjn62kg1ckubn8pikhrb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aebrahima830.ritakwaterapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584643132210:android:bca1d61b8afff52e45352b",
+        "android_client_info": {
+          "package_name": "com.aebrahima830.ritakwaterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584643132210-7p7lqn1mkt6tjrcgg1j1n3cpc4g8fle8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aebrahima830.ritakwaterapp",
+            "certificate_hash": "71270b5d5a7c953e78adb1c1f53c3dde017a3482"
+          }
+        },
+        {
+          "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKTuLjQAFYv-bq4Mc-l2vSyxk6LWArUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584643132210-7771rc4jautvjn62kg1ckubn8pikhrb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aebrahima830.ritakwaterapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584643132210:android:cfda9410a9010c8a45352b",
+        "android_client_info": {
+          "package_name": "com.aebrahima830.speed_motor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584643132210-4ikdg10c6s86dkg6394hus80pabcshb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aebrahima830.speed_motor",
+            "certificate_hash": "d4f8e4b84789c1d25ff735a3c5e083bcb42f2883"
+          }
+        },
+        {
+          "client_id": "584643132210-m5sarri3fb4smsvr5sf47fubhr6qutga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aebrahima830.speed_motor",
+            "certificate_hash": "4a7eae380f7367ae6236d5441a31d0f8882b20dd"
+          }
+        },
+        {
+          "client_id": "584643132210-trgd2kakoll7mrk6adiplhsns9rgpfbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aebrahima830.speed_motor",
+            "certificate_hash": "ae57c22c6a0ed9c3ef0967de3e4086b8392238f3"
+          }
+        },
+        {
+          "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKTuLjQAFYv-bq4Mc-l2vSyxk6LWArUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584643132210-7771rc4jautvjn62kg1ckubn8pikhrb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aebrahima830.ritakwaterapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584643132210:android:531a05803ee0bcf045352b",
+        "android_client_info": {
+          "package_name": "com.aebrahima830.tajjapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584643132210-0kal9rde74qa7qjs12r1gkddqes4m58d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aebrahima830.tajjapp",
+            "certificate_hash": "44b7a2a274edbecf4bf3872dc18aa0ecb87418d6"
+          }
+        },
+        {
+          "client_id": "584643132210-sdotg0rkg3iibg6iamlcocc1tg25liob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aebrahima830.tajjapp",
+            "certificate_hash": "d4f8e4b84789c1d25ff735a3c5e083bcb42f2883"
+          }
+        },
+        {
+          "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKTuLjQAFYv-bq4Mc-l2vSyxk6LWArUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584643132210-7771rc4jautvjn62kg1ckubn8pikhrb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aebrahima830.ritakwaterapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584643132210:android:0d4e7abfac25463b45352b",
+        "android_client_info": {
+          "package_name": "com.aebrahima830.wajed_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584643132210-hgkm0beptqc6qsbj84rngckr1ql6oapf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aebrahima830.wajed_delivery",
+            "certificate_hash": "f0892ac19a2d2b02231e723fe5a580d3ef21c0e8"
+          }
+        },
+        {
+          "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKTuLjQAFYv-bq4Mc-l2vSyxk6LWArUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584643132210-7771rc4jautvjn62kg1ckubn8pikhrb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aebrahima830.ritakwaterapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584643132210:android:b66637b9f4d3b56445352b",
+        "android_client_info": {
+          "package_name": "com.aebrahima830.zone_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584643132210-7h9db90m112ci0tb2c5klp98t426kiea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aebrahima830.zone_delivery",
+            "certificate_hash": "f0892ac19a2d2b02231e723fe5a580d3ef21c0e8"
+          }
+        },
+        {
+          "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKTuLjQAFYv-bq4Mc-l2vSyxk6LWArUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584643132210-7771rc4jautvjn62kg1ckubn8pikhrb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aebrahima830.ritakwaterapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584643132210:android:4d48b68044517b1f",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584643132210-jvprm345856nligdcoa1m0ub707q6vbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmed.myapplication",
+            "certificate_hash": "ca35e9c7b6c220241fc199cf01eced15641c4863"
+          }
+        },
+        {
+          "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKTuLjQAFYv-bq4Mc-l2vSyxk6LWArUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584643132210-7771rc4jautvjn62kg1ckubn8pikhrb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aebrahima830.ritakwaterapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584643132210:android:553c18360647f9b9",
+        "android_client_info": {
+          "package_name": "com.verbosetech.pingTalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584643132210-s0b9jo7h4ujcp2a61m9s9h9tm2iirdtg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.verbosetech.pingTalk",
+            "certificate_hash": "0fa6ee05c1baf9ec0beb13c009c69ab6cc1f0873"
+          }
+        },
+        {
+          "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKTuLjQAFYv-bq4Mc-l2vSyxk6LWArUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584643132210-1gsr0q3eebtfgkjhieijkstq3g3bvamk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584643132210-7771rc4jautvjn62kg1ckubn8pikhrb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aebrahima830.ritakwaterapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
